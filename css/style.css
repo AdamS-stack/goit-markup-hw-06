@@ -819,7 +819,7 @@
 .form-icon {
     height: 24px;
     position: absolute;
-    top: 48px;
+    top: 46px;
     right: 266px;
     transition: fill var(--transition) var(--transition-timing-function);
 }
