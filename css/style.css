@@ -738,6 +738,7 @@
     background-color: var(--backdrop-transparency);
     transition: transform var(--transition);
     display: flex;
+    z-index: 3;
 }
 .is-hidden {
     transform: translateX(-100%);
